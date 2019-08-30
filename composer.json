@@ -1,5 +1,5 @@
 {
-    "name": "torophp/torophp",
+    "name": "oberd/torophp",
     "type": "library",
     "description": "Toro is a PHP router for developing RESTful web applications and APIs.",
     "keywords": [
